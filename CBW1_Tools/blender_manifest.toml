@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "cbw1_tool"
+name = "CBW1 Tools"
+version = "1.0.0"
+tagline = "CBW1 Animation & FPS Adjustment Tools"
+maintainer = "Nampukkk"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = [
+    "SPDX:GPL-2.0-or-later",
+]
+
+website = ""
+
+[permissions]
+# Standard file export/import permissions
+files = true
